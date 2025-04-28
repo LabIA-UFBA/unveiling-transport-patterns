@@ -6,7 +6,7 @@ The research provides an integrated public transportation dataset from Salvador 
 
 
 
-<center><img src="images/graphs-SSA.png" width=500px/></center>
+<center><img src="images/rede_transporte.png" width=500px/></center>
 
 
 
